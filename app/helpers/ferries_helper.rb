@@ -1,0 +1,2 @@
+module FerriesHelper
+end

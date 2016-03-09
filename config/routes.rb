@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :ferries
   root 'main#index'
   get 'about' => 'main#about'
 
